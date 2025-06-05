@@ -6,7 +6,7 @@ This repository demonstrates the implementation of the Page Object Model (POM) d
 
 Before following the steps given below, please ensure that npm and node are installed on your machine.
 
-Step1: Install Playwright's latest version npm init playwright@latest
+Step1: Install Playwright's latest version npm init playwright@latest        
 Step2: Install Playwright supported browsers npx playwright install
 
 ## Execution
